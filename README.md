@@ -1,0 +1,4 @@
+places
+======
+
+Places of interest.
