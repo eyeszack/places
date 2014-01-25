@@ -4,7 +4,7 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [35.390, 59.5]}
+      "geometry": {"type": "Point", "coordinates": [35.354, 59.075]}
     }
   ]
 }
