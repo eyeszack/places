@@ -1,1 +1,5 @@
-{"type": "Point", "coordinates": [35.354, 59.075]}
+{ 
+  "type": "FeatureCollection",
+  "bbox": [100.0, 0.0, 105.0, 1.0],
+  "features": []
+}
