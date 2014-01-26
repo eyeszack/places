@@ -3,11 +3,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-111.975676,33.585919] }
+      "geometry": { "type": "Point", "coordinates": [-111.97865,33.591] }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.975603,33.584618] }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-111.975676,33.585919] }
     }
   ] 
 }
