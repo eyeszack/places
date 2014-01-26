@@ -11,6 +11,10 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-111.98653,33.59558] }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.975603,33.584618] }
     },
     {
