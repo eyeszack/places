@@ -7,6 +7,10 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-111.99033,33.59023] }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.975603,33.584618] }
     },
     {
