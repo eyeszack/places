@@ -1,7 +1,7 @@
 places
 ======
 
-Places of interest.
+Maps of various places of interest to me, all created using geojson.
 
 
 geocaching
@@ -13,4 +13,4 @@ Geocaches that I've found or that where not there.  I've organized these maps by
 hiking
 ------
 
-Some of my favorite hiking spots and points of interest.  Also organized by state.
+Some of my favorite hiking spots and points of interest.  Also organized by state, but broken down into areas in each state.
