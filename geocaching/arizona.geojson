@@ -20,6 +20,10 @@
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.975676,33.585919] }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-111.97917,33.59198] }
     }
   ] 
 }
