@@ -29,12 +29,12 @@
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.97917,33.59198] },
-      "properties": {"title": "Rock Hard", "attempted": "10/19/2009", "marker-symbol": "6", "marker-color": "#00FF00"}
+      "properties": {"title": "Rock Hard", "found": "10/19/2009", "marker-symbol": "6", "marker-color": "#32CD32"}
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.97753,33.59955] },
-      "properties": {"title": "Shopping Day", "found": "10/21/2009", "marker-symbol": "7", "marker-color": "#FF4444"}
+      "properties": {"title": "Shopping Day", "attempted": "10/21/2009", "marker-symbol": "7", "marker-color": "#FF4444"}
     }
   ] 
 }
