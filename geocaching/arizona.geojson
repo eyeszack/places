@@ -4,32 +4,32 @@
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.97865,33.591] },
-      "properties": {"title": "Green by Green", "found": "08/09/2009", "marker-symbol": "1", "marker-color": "#00FF00"}
+      "properties": {"title": "Green by Green", "found": "08/09/2009", "marker-symbol": "1", "marker-color": "#32CD32"}
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.99033,33.59023] },
-      "properties": {"title": "Cholla S&R", "found": "08/11/2009", "marker-symbol": "2", "marker-color": "#00FF00"}
+      "properties": {"title": "Cholla S&R", "found": "08/11/2009", "marker-symbol": "2", "marker-color": "#32CD32"}
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.98653,33.59558] },
-      "properties": {"title": "New Round", "found": "08/21/2009", "marker-symbol": "3", "marker-color": "#00FF00"}
+      "properties": {"title": "New Round", "found": "08/21/2009", "marker-symbol": "3", "marker-color": "#32CD32"}
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.975603,33.584618] },
-      "properties": {"title": "Good Dog", "found": "11/30/2009", "marker-symbol": "4", "marker-color": "#00FF00"}
+      "properties": {"title": "Good Dog", "found": "11/30/2009", "marker-symbol": "4", "marker-color": "#32CD32"}
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.975676,33.585919] },
-      "properties": {"title": "Bed Bath & Behind", "found": "11/30/2009", "marker-symbol": "5", "marker-color": "#00FF00"}
+      "properties": {"title": "Bed Bath & Behind", "found": "11/30/2009", "marker-symbol": "5", "marker-color": "#32CD32"}
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-111.97917,33.59198] },
-      "properties": {"title": "Rock Hard", "found": "10/19/2009", "marker-symbol": "6", "marker-color": "#00FF00"}
+      "properties": {"title": "Rock Hard", "attempted": "10/19/2009", "marker-symbol": "6", "marker-color": "#00FF00"}
     },
     {
       "type": "Feature",
