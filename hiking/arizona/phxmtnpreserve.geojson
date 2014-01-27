@@ -1,5 +1,11 @@
 { 
   "type": "FeatureCollection",
   "bbox": [-111.976604, 33.526513, -112.106123, 33.607614],
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-112.02,33.55] },
+      "properties": {"title": "Piestewa Peak", "marker-symbol": "flag", "marker-color": "#32CD32"}
+    }
+  ]
 }
