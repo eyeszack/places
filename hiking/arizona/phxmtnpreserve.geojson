@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-112.02,33.55] },
+      "geometry": { "type": "Point", "coordinates": [-112.020835,33.547367] },
       "properties": {"title": "Piestewa Peak", "marker-symbol": "golf", "marker-color": "#32CD32"}
     }
   ]
