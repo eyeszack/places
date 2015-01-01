@@ -3,8 +3,8 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-112.020835,33.547367] },
-      "properties": {"title": "Piestewa Peak", "marker-symbol": "golf", "marker-color": "#32CD32"}
+      "geometry": { "type": "Point", "coordinates": [-112.966474,37.257609] },
+      "properties": {"title": "Emerald Pools Trail - Zion", "marker-symbol": "pitch", "marker-color": "#32CD32"}
     }
   ]
 }
