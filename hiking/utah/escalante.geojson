@@ -1,0 +1,10 @@
+{ 
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-111.420160,37.829212] },
+      "properties": {"title": "Lower Calf Creek Falls - Escalante", "marker-symbol": "pitch", "marker-color": "#32CD32"}
+    }
+  ]
+}
