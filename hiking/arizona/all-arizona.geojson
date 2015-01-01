@@ -25,6 +25,11 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-112.039322,33.585766] },
       "properties": {"title": "Rusty Pole", "marker-symbol": "star", "marker-color": "#32CD32"}
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-110.895363,32.422078] },
+      "properties": {"title": "Canyon Loop Trail - Catalina", "marker-symbol": "pitch", "marker-color": "#32CD32"}
     }
   ]
 }

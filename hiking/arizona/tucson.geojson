@@ -1,0 +1,10 @@
+{ 
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-110.895363,32.422078] },
+      "properties": {"title": "Canyon Loop Trail - Catalina", "marker-symbol": "pitch", "marker-color": "#32CD32"}
+    }
+  ]
+}
