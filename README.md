@@ -3,6 +3,8 @@ places
 
 Maps of various places of interest to me, all created using geojson.
 
+For marker symbols checkout [MAKI](https://www.mapbox.com/maki/).
+
 
 geocaching
 ----------
