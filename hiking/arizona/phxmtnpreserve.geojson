@@ -3,6 +3,11 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-112.030832,33.550259] },
+      "properties": {"title": "Old Abandoned House", "marker-symbol": "building", "marker-color": "#32CD32"}
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-112.020835,33.547367] },
       "properties": {"title": "Piestewa Peak", "marker-symbol": "golf", "marker-color": "#32CD32"}
     },
@@ -18,3 +23,6 @@
     }
   ]
 }
+
+
+33.550259, -112.030832
